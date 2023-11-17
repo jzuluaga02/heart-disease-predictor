@@ -8,6 +8,6 @@ Project to develop a Convolutional Neural Network (CNN) leveraging the PyTorch f
 
 ● Developed a friendly user interface using Flask and tested with several users the effectiveness of a well designed UI. Incrementing the user engagement by 50%.
 
-● Working on containerizing the final application using Docker, providing a streamlined deployment process and efficient maintenance.
+● Working on containerizing the final application using Docker to provide a streamlined deployment process and efficient maintenance.
 
 ● Currently working on model tuning and making the application more personalized for every user.
