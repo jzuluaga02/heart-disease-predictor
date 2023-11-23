@@ -3,6 +3,7 @@
 [2023-11-20 20:47:07,945: INFO: main: Welcome to a custome log]
 [2023-11-20 20:49:15,201: INFO: main: Welcome to a custome log]
 [2023-11-20 20:49:23,223: INFO: main: Welcome to a custome log]
+<<<<<<< HEAD
 [2023-11-22 14:23:12,952: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
 [2023-11-22 14:23:12,952: INFO: common: yaml file: config\config.yaml loaded successfully]
 [2023-11-22 14:23:12,952: INFO: common: yaml file: params.yaml loaded successfully]
@@ -42,3 +43,5 @@ ValueError: yaml file is empty
 [2023-11-22 14:24:49,017: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
 
 x==========x]
+=======
+>>>>>>> 6c6d947c62a0a76da70ca57e298604ada97527c6
